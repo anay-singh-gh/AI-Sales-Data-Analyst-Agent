@@ -1,0 +1,17 @@
+# LLM
+groq==1.7.0
+
+# Database
+psycopg2-binary==2.9.12
+SQLAlchemy==2.0.52
+
+# Data and visualization
+pandas==3.0.5
+matplotlib==3.11.1
+seaborn==0.13.2
+
+# Config
+python-dotenv==1.2.3
+
+# Notebook (playground.ipynb)
+ipykernel==7.3.0
